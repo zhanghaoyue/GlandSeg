@@ -34,3 +34,7 @@ codebase for prostate gland segmentation model "Masked Image Modeling Meets Self
 
 ### Model Code
 now, the model code is uploaded
+
+### Model weights
+https://huggingface.co/zhanghaoyue/ProstateGlandSeg
+Based on the feedback, Panda models generalize better on other datasets while SICAPv2 is more tuned towards itself.
